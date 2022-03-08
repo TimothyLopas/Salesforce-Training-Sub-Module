@@ -1,0 +1,12 @@
+tasks:
+  Salesforce_Actions:
+    robotTaskName: Salesforce Actions
+
+condaConfigFile: conda.yaml
+artifactsDir: output
+PATH:
+  - .
+PYTHONPATH:
+  - .
+ignoreFiles:
+  - .gitignore
